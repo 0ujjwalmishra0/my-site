@@ -1,0 +1,169 @@
+h1 {
+  
+  width: 33.31%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento',cursive;
+
+  font-size: 5em;
+  color: #66bfbf;
+}
+
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 1.8rem;
+    color: #66bfbf;
+    
+}
+
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color: #11999e;
+}
+
+body {
+  margin: 0px;
+  color: #404d4a;
+  text-align: center;/*used with parent*/
+  font-family: verdana, sans-serif;
+}
+.top {
+  padding: 100px;
+  background-color: #e4f9f5;
+  position: relative;
+  right: 50 px;
+}
+p {
+  margin: 0px;
+}
+.middle-container{
+    padding: 100px 0;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  bottom: 400px;
+  left: 300px;
+}
+.profile-img{
+    border-radius: 100%;
+    width: 15%;
+
+}
+.skill-coding{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+   
+}
+
+#skill-reading{
+    width: 25%;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+
+p{
+    line-height: 1.5;
+}
+a{
+    color: #11999e;
+    margin-top: 30px;
+    font-weight: bold;
+    padding-left: 60px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+    color: #EAf6f6 ;
+}
+
+.btn:hover{
+    color: rgb(167, 165, 165);
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    margin-top: 60px;
+    padding: 30px;
+    padding-bottom: 18px;
+}
+.copyright{
+    margin: 25px;
+    color: #EAf6f6;
+    font-size: 0.75rem;
+}
+/********************************************* DEMO CSSS *******************************************/
+/*using relative positioning//
+/* 
+.red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 0px;
+    top: -200px;
+}
+
+.blue{
+    position: relative;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+} */
+
+/* using absoulte positioning*/
+/*
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+.yellow {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+}
+
+.blue {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+*/
