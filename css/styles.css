@@ -125,3 +125,57 @@ hr{
     color: #EAf6f6;
     font-size: 0.75rem;
 }
+/********************************************* DEMO CSSS *******************************************/
+/*using relative positioning//
+/* 
+.red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+    left: 200px;
+    top: 200px;
+}
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 0px;
+    top: -200px;
+}
+
+.blue{
+    position: relative;
+    left: 100px;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+} */
+
+/* using absoulte positioning*/
+/*
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+.yellow {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+}
+
+.blue {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+*/
